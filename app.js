@@ -1,3 +1,5 @@
+// Ecample code of a school project 
+
 // maakt een random kleuren code van 4 kleuren
 
 const colors = ['yellow', 'blue', 'green', 'red', 'black', 'white'];
